@@ -1,0 +1,5 @@
+<?php 
+$palabras_posibles = []
+
+
+?>
